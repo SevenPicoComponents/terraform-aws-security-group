@@ -481,7 +481,7 @@ even more examples.
 
 ```hcl
 module "label" {
-  source = "sevenpicocomponents/label/null"
+  source = "SevenPico/context/null"
   # SevenPico recommends pinning every module to a specific version
   # version = "x.x.x"
   namespace  = "eg"
